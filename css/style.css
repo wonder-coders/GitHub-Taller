@@ -3,7 +3,7 @@
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
-	align-items: baseline; /* CHANGE this line */
+	align-items: strech; /* CHANGE this line */
 }
 
 .grid {
@@ -28,7 +28,7 @@
 }
 .grid__item-4 {
 	font-size: 90px;
-	background-color: #673AB7;
+	background-color: red;
 }
 .grid__item-5 {
 	background-color: #3F51B5;
