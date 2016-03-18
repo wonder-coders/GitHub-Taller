@@ -3,7 +3,7 @@
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
-	align-items: baseline; /* CHANGE this line */
+	align-items: stretch; /* CHANGE this line */
 }
 
 .grid {
