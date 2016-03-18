@@ -1,0 +1,53 @@
+.post-grid {
+	/*Align Items*/
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: row;
+	align-items: baseline; /* CHANGE this line */
+}
+
+.grid {
+	width: 100vh;
+	height: 50vh;
+	color: white;
+	text-align: center;
+	text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+	padding: 20px;
+}
+
+.grid__item-1 {
+	font-size: 30px;
+	background-color: #EF5350;
+}
+.grid__item-2 {
+	background-color: #E91E63;
+}
+.grid__item-3 {
+	font-size: 50px;
+	background-color: #9C27B0;
+}
+.grid__item-4 {
+	font-size: 90px;
+	background-color: #673AB7;
+}
+.grid__item-5 {
+	background-color: #3F51B5;
+}
+.grid__item-6 {
+	font-size: 55px;
+	background-color: #2196F3;
+}
+.grid__item-7 {
+	font-size: 100px;
+	background-color: #03A9F4;
+}
+.grid__item-8 {
+	background-color: #00BCD4;
+}
+.grid__item-9 {
+	font-size: 60px;
+	background-color: #009688;
+}
+.grid__item-10 {
+	background-color: #607D8B;
+}
