@@ -3,28 +3,28 @@
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
-	align-items: baseline; /* CHANGE this line */
+	align-items: center; /* CHANGE this line */
 }
 
 .grid {
 	width: 100vh;
 	height: 50vh;
 	color: white;
-	text-align: center;
+	text-align: baseline;
 	text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
 	padding: 20px;
 }
 
 .grid__item-1 {
-	font-size: 30px;
-	background-color: #EF5350;
+	font-size: 40px;
+	background-color: #EF5450;
 }
 .grid__item-2 {
 	background-color: #E91E63;
 }
 .grid__item-3 {
-	font-size: 50px;
-	background-color: #9C27B0;
+	font-size: 33px;
+	background-color: #9C23B0;
 }
 .grid__item-4 {
 	font-size: 90px;
@@ -42,7 +42,7 @@
 	background-color: #03A9F4;
 }
 .grid__item-8 {
-	background-color: #00BCD4;
+	background-color: #00BCD7;
 }
 .grid__item-9 {
 	font-size: 60px;
