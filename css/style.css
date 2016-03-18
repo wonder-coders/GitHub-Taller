@@ -3,7 +3,7 @@
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
-	align-items: baseline; /* CHANGE this line */
+	align-items: strech; /* CHANGE this line */
 }
 
 .grid {
@@ -17,10 +17,10 @@
 
 .grid__item-1 {
 	font-size: 30px;
-	background-color: #EF5350;
+	background-color: #FFFFFF;
 }
 .grid__item-2 {
-	background-color: #E91E63;
+	background-color: #000000;
 }
 .grid__item-3 {
 	font-size: 50px;
