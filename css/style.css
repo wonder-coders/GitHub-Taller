@@ -3,13 +3,13 @@
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
-	align-items: baseline; /* CHANGE this line */
+	align-items: stretch; /* CHANGE this line */
 }
 
 .grid {
 	width: 100vh;
 	height: 50vh;
-	color: white;
+	color: black;
 	text-align: center;
 	text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
 	padding: 20px;
